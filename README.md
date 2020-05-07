@@ -6,7 +6,7 @@ https://github.com/netease-im/NIM_Android_AVChatKit
 
 # 版本
 
-## 1.0.2
+## Version 1.0.2
 Migrate to AndroidX
 Update SDK version to 7.5.0
 
